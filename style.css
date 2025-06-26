@@ -1,0 +1,28 @@
+img {
+    display: block;
+    margin: auto;
+    width: 300px; 
+    height: 300px;
+}
+div{
+    border: solid black;
+    border-radius: 20px;
+    width:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.text{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: underline;
+    color: rgb(177, 92, 213);
+    font-weight: 500;
+}
+a:hover {
+    color: hotpink;
+  }
